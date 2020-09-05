@@ -50,7 +50,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=f61f1f&bg_color=151515)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
