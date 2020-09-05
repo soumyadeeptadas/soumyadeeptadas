@@ -1,5 +1,5 @@
-### Hi there 👋 Welcome to my Github! ⚡
-### I'm Soumyadeepta :smile:
+## Hi there 👋 Welcome to my Github! ⚡
+## I'm Soumyadeepta :smile:
 
 
 - 🔭 I’m currently working on some of my cool side projects based on Full Stack Web Development and Machine Learning and also Competitive Coding :wrench: .
@@ -9,7 +9,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+## About
 
 
 -  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
