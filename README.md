@@ -13,7 +13,7 @@
 
 
 -  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
--  **Languages :** Javascript, C++, Python
+-  **Languages :** Javascript, C++, Python :keyboard:
 -  **Hobbies :** Games , Food , Sports :badminton: :football: & Music :heart:
 -  **Fact :** First solve the problem, then write the code ⚡ 
 
@@ -25,7 +25,7 @@
 -  Backend development  **Node Js, Express**
 -  Databases **MongoDB**
 -  Machine Learning, AI
--  **Games** | **Movies** | **Stories** | **World** :globe:
+-  **Games** | **Movies** | **Stories** | **World** 🌍
 
 
 - **My Portfolio:** [Portfolio](https://soumyadeepta-das.glitch.me/)
