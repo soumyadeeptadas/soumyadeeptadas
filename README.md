@@ -44,6 +44,7 @@
 </a>
 <br>
 <br>
+
 [![Gmail Badge](https://img.shields.io/badge/-sdpta1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdpta1998@gmail.com)](mailto:sdpta1998@gmail.com)
 
 
