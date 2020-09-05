@@ -2,7 +2,7 @@
 ## I'm Soumyadeepta :smile:
 
 
-- 🔭 I’m currently working on some of my cool side projects based on Full Stack Web Development and Machine Learning and also Competitive Coding :wrench: .
+- 🔭 I’m currently working on some of my cool side projects based on Full Stack Web Development and Machine Learning and also Competitive Coding.
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
@@ -14,7 +14,7 @@
 
 -  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
 -  **Languages :** Javascript, C++, Python :keyboard:
--  **Hobbies :** Games  👾 , Food 🍔, Sports :badminton: ⚽ & Music 🎧
+-  **Hobbies :** Games  🎮 , Food 🍔, Sports :badminton: ⚽ & Music 🎧
 -  **Fact :** First solve the problem, then write the code ⚡ 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
