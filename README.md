@@ -1,9 +1,6 @@
 ### Hi there 👋 Welcome to my Github! ⚡
 ### I'm Soumyadeepta :smile:
 
-- 🔭 I’m currently working on some of my cool side projects based on Full Stack Web Development and Machine Learning and also Competitive Coding :wrench: .
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
-
 <br>
 <a href="https://www.linkedin.com/in/soumyadeepta-das/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,11 +14,17 @@
   <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <br>
+<br>
+
+- 🔭 I’m currently working on some of my cool side projects based on Full Stack Web Development and Machine Learning and also Competitive Coding :wrench: .
+- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
 -  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
 -  **Languages :** Javascript, C++, Python
