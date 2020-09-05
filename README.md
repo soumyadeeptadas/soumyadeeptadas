@@ -14,7 +14,7 @@
 
 -  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
 -  **Languages :** Javascript, C++, Python :keyboard:
--  **Hobbies :** Games , Food , Sports :badminton: :football: & Music :heart:
+-  **Hobbies :** Games :gun: , Food :pasta: , Sports :badminton: :football: & Music :heart:
 -  **Fact :** First solve the problem, then write the code ⚡ 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
