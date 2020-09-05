@@ -43,7 +43,7 @@
   <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <br>
-
+<br>
 [![Gmail Badge](https://img.shields.io/badge/-sdpta1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdpta1998@gmail.com)](mailto:sdpta1998@gmail.com)
 
 
