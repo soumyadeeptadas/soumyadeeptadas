@@ -26,9 +26,8 @@
 - **My Portfolio:** [Portfolio](https://soumyadeepta-das.glitch.me/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### - 📫 How to reach me:
 <br>
 <a href="https://www.linkedin.com/in/soumyadeepta-das/">
@@ -43,13 +42,18 @@
   <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <br>
-<br>
 
-[![Gmail Badge](https://img.shields.io/badge/-sdpta1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdpta1998@gmail.com)](mailto:sdpta1998@gmail.com)
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐️ From [Soumyadeepta Das](https://github.com/soumyadeeptadas)
 
