@@ -21,8 +21,8 @@
 
 ## Talk to me about!! 💬
 
--  Front-end development **HTML, Javascript,CSS,Bootstrap, React**
--  Backend development  **Node Js, Express**
+-  Front-end development **HTML, Javascript,CSS,jQuery,Bootstrap, React**
+-  Backend development  **Node Js, Express, Django**
 -  Databases **MongoDB**
 -  Machine Learning, AI
 -  **Games** | **Movies** | **Stories** | **World** 🌍
