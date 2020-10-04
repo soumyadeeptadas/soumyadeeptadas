@@ -13,7 +13,7 @@
 
 
 -  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
--  **Languages :** Javascript, C++, Python :keyboard:
+-  **Languages :** Javascript, C++, Python, Java :keyboard:
 -  **Hobbies :** Games  🎮 , Food 🍔, Sports :badminton: ⚽ & Music 🎧
 -  **Fact :** First solve the problem, then write the code ⚡ 
 
