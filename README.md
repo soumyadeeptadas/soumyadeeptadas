@@ -2,33 +2,13 @@
 ## I'm Soumyadeepta :smile:
 
 
-- 🔭 I’m currently working on some of my cool side projects based on Full Stack Web Development and Machine Learning and also Competitive Coding.
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About
 
 
--  **Working on :** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
--  **Languages :** Javascript, C++, Python, Java :keyboard:
--  **Hobbies :** Games  🎮 , Food 🍔, Sports :badminton: ⚽ & Music 🎧
--  **Fact :** First solve the problem, then write the code ⚡ 
+-  ** Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Talk to me about!! 💬
-
--  Front-end development **HTML, Javascript,CSS,jQuery,Bootstrap, React**
--  Backend development  **Node Js, Express, Django**
--  Databases **MongoDB**
--  Machine Learning, AI
--  **Games** | **Movies** | **Stories** | **World** 🌍
-
-
-- **My Portfolio:** [Portfolio](https://soumyadeepta-das.glitch.me/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## - 📫 How to reach me: 
