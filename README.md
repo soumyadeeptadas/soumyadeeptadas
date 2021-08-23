@@ -28,21 +28,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true&title_color=ff4&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## 🔥 Contributions: 
 <p align="center">
   
-![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true&title_color=ff4&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+  ![github stats](https://github-readme-stats.vercel.app/api?username=soumyadeeptadas&show_icons=true&title_color=ff4&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=soumyadeeptadas&theme=react&background=0d1117&border=666">
   </a>
+  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
