@@ -31,7 +31,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<h1 align="center"> 🔥 Contributions: </h1>
+## 🔥 Contributions: 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=soumyadeeptadas&theme=react&background=0d1117&border=666">
