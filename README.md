@@ -2,31 +2,12 @@
 
 
 I am an Engineer and Developer, specializing in Scalable software solutions, Data driven systems and safe, reliable AI; with interest in tech like Blockchain.
+
 Currently, I’m working on developing product, platform and capabilities at [American Express](https://www.americanexpress.com/).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Full-Stack Development :zap: |Machine Learning :brain: | Open-Source :fire:	
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## - 📫 How to reach me: 
-
-<br>
-<a href="https://www.linkedin.com/in/soumyadeepta-das/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/soumyadeeptadas">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://codepen.io/soumyadeepta_das">
-  <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a>
-<br>
-<br>
-
+## Check out my [website](https://soumyadeeptadas.netlify.app/)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
