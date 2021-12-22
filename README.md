@@ -2,7 +2,7 @@
 
 
 I am an Engineer and Developer, specializing in Scalable software solutions, Data driven systems and safe, reliable AI; with interest in tech like Blockchain.
-Currently, I’m working on developing product, platform and capabilities at [American Express[(https://www.americanexpress.com/).
+Currently, I’m working on developing product, platform and capabilities at [American Express](https://www.americanexpress.com/).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
