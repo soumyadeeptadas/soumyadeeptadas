@@ -6,7 +6,7 @@ I am an Engineer and Developer, specializing in Scalable software solutions, Dat
 Currently, I’m working on developing product, platform and capabilities at [American Express](https://www.americanexpress.com/).
 
 
-## [Website](https://soumyadeeptadas.netlify.app/)
+You can find me on my [website](https://soumyadeeptadas.netlify.app/), and my [linkedin](https://www.linkedin.com/in/soumyadeepta-das/).
 
 
 
