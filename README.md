@@ -8,7 +8,7 @@ Currently, I’m working on developing product, platform and capabilities at [Am
 
 ## Check out my [website](https://soumyadeeptadas.netlify.app/)
 
-<a href='https://www.linkedin.com/in/soumyadeepta-das/'><img align='left' alt="linkedin" src="<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>" height='18px'/></a>
+<a href='https://www.linkedin.com/in/soumyadeepta-das/'><img align='left' alt="linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png" height='18px'/></a>
 
 
 
