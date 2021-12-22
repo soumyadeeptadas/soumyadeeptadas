@@ -10,7 +10,7 @@ You can find me on my [website](https://soumyadeeptadas.netlify.app/), and my [l
 
 
 
-## 🔥 Contributions: 
+## Contributions:
 <p align="center">
   
  
